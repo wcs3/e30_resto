@@ -4,6 +4,8 @@ This folder contains a cutting template for reproducing the "Trunk Partition Pan
 
 Mounts with 4 expanding clips #51481884779.
 
+![e30_trunk_partion_trim.png](e30_trunk_partion_trim.png)
+
 ## Recommended Material
 
 - Material: Paperboard, dyed black throughout
