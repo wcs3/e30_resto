@@ -1,6 +1,6 @@
 # Trunk Partition Trim Panel Reproduction
 
-This folder contains a cutting template for reproducing the "Trunk Partition Panel #51471935689" found behind the rear seats of the BMW E30. This panel covers the body-colored metal divider between the cabin and trunk, to match the dark carpet trims of the trunk. With it being made from paper, and trunk leaks being prevalent in E30s, this part usually ends up moldy and degraded. Unfortunately, it is NLA from BMW and hard to find in good condition secondhand due to the aforementiond reasons. 
+This folder contains a cutting template for reproducing the "Trunk Partition Panel #51471935689" found behind the rear seats of the BMW E30. This panel covers the body-colored metal divider between the cabin and trunk. With it being made from paper, and trunk leaks being prevalent in E30s, this part usually ends up moldy and degraded. Unfortunately, it is NLA from BMW and hard to find in good condition secondhand due to the aforementiond reasons. 
 
 Mounts with 4 expanding clips #51481884779.
 
@@ -8,8 +8,8 @@ Mounts with 4 expanding clips #51481884779.
 
 ## Recommended Material
 
-- Material: Paperboard, dyed black throughout
-- Thickness: 1.5–2.0 mm (approx. 1/16")
+- Material: Paperboard/Matboard/Mounting board, dyed black throughout
+- Thickness: 1.5–3mm (approx. 1/16"-1/8")
 - Sheet size: At least 930mmx510mm or 37"x21" 
 - Source: Most art supply or craft stores (e.g., Blick, Michaels, or similar)
 
