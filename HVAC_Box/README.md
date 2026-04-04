@@ -26,3 +26,10 @@ There are no replacements available for the air flap foams, but it is generally 
 The ducting gasket is still available from BMW (64111370937), but if that becomes NLA or prohibitively expensive, a possible alternative is to piece it together from strips of open-cell foam tape, approximately 3/4" wide and 1/2" thick.
 
 The seams between the large housing parts of the box are sealed with an oring cord type of gasket. A part exists for the seal between the lower and upper housing (64111372637), but this is NLA. These can be replaced with 2mm oring cord of the appropriate rubber material (EPDM might be a good choice), or a bead of silicone.
+
+## Various Parts
+
+| Part Description           | Part Number | OEM Availability      | Alternative Sourcing                                                                                                                                 |
+|----------------------------|-------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vibration Isolator Mount   | 64218042132 | Available (Expensive) | Search for vibration mounts with 20mm diameter, 15mm height, and M6x8mm studs (can cut down longer studs if can't find ones with exactly 8mm length) |
+| Vibration Isolator Bracket | 64111370637 | Available             | Fabricate 35mm x 35mm angle bracket with 7mm x 20mm rounded slots on each flange                                                                     | 
